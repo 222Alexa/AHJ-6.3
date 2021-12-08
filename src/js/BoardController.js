@@ -1,5 +1,5 @@
 import Card from "./Card";
-import data from "./catalog.js";
+import data from "./catalog";
 
 export default class BoardController {
   constructor(board) {
