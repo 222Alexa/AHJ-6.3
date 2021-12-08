@@ -1,0 +1,5 @@
+{
+  "DOM": { "id": 1, "name": "DOM STRING", "size": 3.1 },
+  "Storage": { "id": 3, "name": "Storage Standart", "size": 0.3 },
+  "XML": { "id": 4, "name": "XMLHttpRequest Standart", "size": 0.8 }
+}
